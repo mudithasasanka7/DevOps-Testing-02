@@ -7,6 +7,7 @@ function App() {
       <h1>My CV</h1>
       <p><strong>Name:</strong> Muditha Sasanka Kodikara</p>
       <p><strong>Email:</strong> muditha@gmail.com</p>
+      <p><strong>Contact:</strong> 011-1234567</p>
       <p><strong>Skills:</strong> React, Node.js, PHP, Laravel</p>
     </div>
   );
