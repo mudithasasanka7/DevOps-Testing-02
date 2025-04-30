@@ -9,7 +9,7 @@ function App() {
       <p><strong>Email:</strong> muditha@gmail.com</p>
       <p><strong>Contact:</strong> 011-1234568</p>
       <p><strong>Skills:</strong> React, Node.js, PHP, Laravel, Cloud, Java, Python</p>
-      <p><strong>Languages:</strong> Sinhala, English, Tamil, Hindi</p>
+      <p><strong>Languages:</strong> Sinhala, English, Tamil, Hindi, Japan</p>
     </div>
   );
 }
