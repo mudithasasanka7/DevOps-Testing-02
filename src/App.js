@@ -11,7 +11,7 @@ function App() {
       <p><strong>Personal:</strong> 0775097307</p>
       <p><strong>Skills:</strong> React, Node.js, PHP, Laravel, Cloud, Java, Python</p>
       <p><strong>Languages:</strong> Sinhala, English, Tamil, Hindi, Japan, Fanish</p>
-      <p><strong>Visit Country:</strong> Sri Lanka</p>
+      <p><strong>Visit Country:</strong> Sri Lanka, India</p>
     </div>
   );
 }
